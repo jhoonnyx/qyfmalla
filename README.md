@@ -21,11 +21,5 @@ Este proyecto es una malla académica universitaria interactiva creada con HTML,
 - CSS
 - JavaScript
 
-## Autor
 
-Juan Pérez (o tu nombre)
-
-## Contacto
-
-Puedes contactarme en: tu.email@example.com
 
